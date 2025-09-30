@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏡 Based in Timisoara, Romania<br><br>🔭 I’m currently working on a blockchain-based file storage system<br><br>🌱 I’m currently learning cybersecurity and blockchain<br><br>💼Always open for business<br><br>🤖Programmer of Wizztech Robotics Club of Timisoara
+🏡 Based in Timisoara, Romania<br><br>🔭 I’m currently working on conversational prompt engineering: soleia.chat<br><br>🌱 I’m currently learning computer science<br><br>💼Always open for business<br><br>🤖Programmer of Wizztech Robotics Club of Timisoara
 
 
 ## 🌐 Socials:
